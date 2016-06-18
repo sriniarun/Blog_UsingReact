@@ -1,0 +1,5 @@
+{
+  "port" : 8080,
+  "DatabaseURL" : "mongodb://localhost/blogdb",
+  "secret" :  "6746715643u1yb5u4315yb874581"
+}
